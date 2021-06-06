@@ -60,5 +60,5 @@ Based on the findings above, these are the top takeaways to create a successful 
 2. Bikes should be positioned in the most populous areas
 3. Offer incentives to push for daily use throughout the week during traditional communting hours
 
-For a more in depth and interactive view of this analysis, checkout the Tableau link below
+
 
