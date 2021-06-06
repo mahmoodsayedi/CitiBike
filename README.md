@@ -30,7 +30,7 @@ This visualization shows the breakdown of riders by gender and duration of times
 ![checkout_times_by_gender](https://github.com/mahmoodsayedi/CitiBike/blob/main/visualizations/checkout_times_by_gender.png) 
 
 To further these findings, this visualizations shows that the most common user is a male subscriber (meaning that they have signed up for a long term contract with citi bike) and
-there most frequent day of the week to ride on is Thursday.
+there most frequent day of the week to ride on is Thursday. 
 
 ![user_trips_by_gender](https://github.com/mahmoodsayedi/CitiBike/blob/main/visualizations/trips_by_gender.png)
 
