@@ -61,4 +61,3 @@ Based on the findings above, these are the top takeaways to create a successful 
 3. Offer incentives to push for daily use throughout the week during traditional communting hours
 
 
-
