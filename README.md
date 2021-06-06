@@ -50,7 +50,7 @@ This visualizations shows that weekday rider traffic peaks at traditional commut
 
 To further these findings, this visualization shows a similar patterns when broken down between genders.
 
-![trips_by_gender](https://github.com/mahmoodsayedi/bikesharing_analysis/blob/main/visualizations/trips_by_gender.png) 
+![trips_by_gender](https://github.com/mahmoodsayedi/CitiBike/blob/main/visualizations/user_trips_by_gender.png)  
 
 ## Summary
 
