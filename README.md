@@ -31,6 +31,7 @@ This visualization shows the breakdown of riders by gender and duration of times
 
 To further these findings, this visualizations shows that the most common user is a male subscriber (meaning that they have signed up for a long term contract with citi bike) and
 there most frequent day of the week to ride on is Thursday. 
+https://public.tableau.com/app/profile/mahmood6904/viz/NYCCitiBikeAnalysis_16231991208760/NYCCitiBikeAnalysis 
 
 ![user_trips_by_gender](https://github.com/mahmoodsayedi/CitiBike/blob/main/visualizations/trips_by_gender.png)
 
